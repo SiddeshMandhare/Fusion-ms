@@ -6,5 +6,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class ccna {
     @GetMapping("/ccna")
-    public String getData() {return  "Welcome to Fusion-ccna class" ; }
+    public String getData() {return  "Welcome to Fusion-ccna class with all Networking" ; }
 }
