@@ -20,6 +20,3 @@ USER fusion
 
 # Set the working directory
 WORKDIR /usr/local/tomcat/webapps
-
-# Start Tomcat
-CMD ["catalina.sh", "run"]
