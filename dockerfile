@@ -22,4 +22,8 @@ USER fusion
 WORKDIR /usr/local/tomcat/webapps
 
 # Start Tomcat
+<<<<<<< HEAD
 CMD ["catalina.sh", "run"]
+=======
+CMD ["catalina.sh", "run"]
+>>>>>>> 39dddc95ad21de31042cbe81e75fe0cd00b3e082
